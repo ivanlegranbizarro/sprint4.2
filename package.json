@@ -1,0 +1,19 @@
+{
+  "name": "sprint4.2",
+  "version": "1.0.0",
+  "description": "Solución bicéfala para que Omar pueda corregir el Sprint 4.2",
+  "scripts": {
+    "sequelize": "cd sequelize && npm install && npm start",
+    "mongoose": "cd mongoose && npm install && npm start"
+  },
+  "keywords": [
+    "Api",
+    "Rest",
+    "MongoDB",
+    "SQL",
+    "Express",
+    "Node"
+  ],
+  "author": "Iván Legrán",
+  "license": "MIT"
+}
